@@ -2,7 +2,7 @@
 
 ## 💻 Full-Stack Software Engineer | Cloud-Native Solutions | Data-Driven Systems
 
-🔹 3+ years of experience building robust backend APIs, scalable full-stack applications, and real-time analytics platforms  
+🔹 4+ years of experience building robust backend APIs, scalable full-stack applications, and real-time analytics platforms  
 🔹 Passionate about designing systems that deliver measurable business impact — across finance, healthcare & AI domains  
 🔹 Certified AWS Solutions Architect | Open to collaborations & freelance projects
 
